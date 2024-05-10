@@ -31,13 +31,10 @@ We use your information to:
 We take reasonable measures to protect your information from unauthorized access, theft, and loss.
 
 7. Your Rights
-You have the right to access, correct, or delete your personal information. Please contact us if you wish to exercise these rights.
+You have the right to access or correct your personal information. Please contact us if you wish to exercise these rights.
 
-8. Children’s Privacy
-Our services are not intended for children under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
-
-9. Changes to This Privacy Policy
+8. Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-10. Contact Us
+9. Contact Us
 If you have any questions about this Privacy Policy, please contact us at: [Your Contact Information].
