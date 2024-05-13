@@ -1,4 +1,4 @@
-# Privacy-policy
+# Privacy Policy
 Privacy Policy for Shred Vision
 
 1. Introduction
